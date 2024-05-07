@@ -1,0 +1,32 @@
+#startTimer {
+    margin-top: 0.5rem;
+    width: 100%;
+    background-color: rgb(40, 40, 40);
+    border-style: solid;
+    color: red;
+    border-color: red;
+}
+#title {
+    color: red;
+}
+
+.form-label {
+    color: red;
+}
+
+.form-control {
+    background-color: black;
+    border-style: solid;
+    color: red;
+    border-color: red;
+}
+body {
+    background-color: rgb(40, 40, 40);
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+    padding: 5px;
+  }
+input {
+    margin-bottom: 0.5rem;
+}

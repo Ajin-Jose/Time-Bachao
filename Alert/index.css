@@ -1,0 +1,28 @@
+#button {
+    margin-top: 0.5rem;
+    width: 100%;
+}
+
+#title {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+.form-control {
+    background-color: rgb(40, 40, 40);
+    border-style: solid;
+    color: white;
+    border-color: white;
+}
+body {
+    background-color: rgb(40, 40, 40);
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+  }
+input {
+    margin-bottom: 0.5rem;
+}
